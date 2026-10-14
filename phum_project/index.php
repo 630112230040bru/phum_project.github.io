@@ -54,7 +54,7 @@
                                     </form>
                                 </div>
                                 <div class="card-footer text-center py-3">
-                                    <a href="register.php">ลงทะเบียนนักศึกษา5555555</a>
+                                    <a href="register.php">ลงทะเบียนนักศึกษา77777</a>
                                 </div>
                             </div>
 

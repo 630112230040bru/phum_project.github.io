@@ -89,7 +89,7 @@
 
                             <div class="d-grid gap-2 mt-4">
                                 <button class="btn btn-glow rounded-3" type="submit">
-                                    <i class="fa-solid fa-right-to-bracket me-1"></i> Login
+                                    <i class="fa-solid fa-right-to-bracket me-1"></i> LOGIN
                                 </button>
                             </div>
                         </form>
